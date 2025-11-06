@@ -4,7 +4,7 @@ Chest-minecart chunkloading datapack
 
 Description
 -----------
-This datapack keeps chunks loaded using chest minecarts. It forceloads the chunks where chest minecarts are located. Is shouldn't forceload naturally generated minecarts.
+This datapack keeps chunks loaded using chest minecarts. It forceloads the chunks where chest minecarts are located. It shouldn't forceload any naturally generated minecarts.
 
 Useful in-game commands
 -----------------------
