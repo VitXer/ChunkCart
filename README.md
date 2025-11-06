@@ -4,7 +4,7 @@ Chest-minecart chunkloading datapack
 
 Description
 -----------
-This datapack keeps chunks loaded using chest minecarts. It tags and forceloads the chunks where qualifying chest minecarts are located. The datapack was authored by Haxardev (see `pack.mcmeta`).
+This datapack keeps chunks loaded using chest minecarts. It forceloads the chunks where chest minecarts are located. Is shouldn't forceload naturally generated minecarts.
 
 Useful in-game commands
 -----------------------
